@@ -1,1 +1,2 @@
-Deployment Link: vb-clothing-store.web.app
+Deployment Link: https://www.vb-clothing-store.web.app
+
